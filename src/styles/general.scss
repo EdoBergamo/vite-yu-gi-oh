@@ -1,0 +1,36 @@
+body {
+  font-family: Helvetica, sans-serif;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.g-10 {
+  gap: 10px;
+}
+
+.img-content {
+  width: 100%;
+  display: block;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.items-center {
+  align-items: center;
+}
